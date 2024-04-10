@@ -1,0 +1,5 @@
+@Villa_HostAddress = http://localhost:5256
+
+GET {{Villa_HostAddress}}/api/VillaApi;
+
+###
